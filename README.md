@@ -1,6 +1,8 @@
+# fork Notes
+support for PHP 8 (in progress 0%)
+
 # yii2-fcm-both-api
 Yii2 Extension for sending push notification with both [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) HTTP Server Protocols (APIs).
-
 
 [![Latest Stable Version](https://poser.pugx.org/aksafan/yii2-fcm-both-api/v/stable)](https://packagist.org/packages/aksafan/yii2-fcm-both-api)
 [![Total Downloads](https://poser.pugx.org/aksafan/yii2-fcm-both-api/downloads)](https://packagist.org/packages/aksafan/yii2-fcm-both-api)
