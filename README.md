@@ -18,6 +18,21 @@ This extension supports sending push notification through both currently support
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/). Check the [composer.json](https://github.com/aksafan/yii2-fcm-both-api/blob/master/composer.json) for this extension's requirements and dependencies.
 
+Fork install:
+```
+"require": {
+    ...
+    "aksafan/yii2-fcm-both-api": "dev-banine-php8-support"
+},
+"repositories": [
+    {
+		"type": "vcs",
+		"url": "https://github.com/banine/yii2-fcm-both-api"
+	}
+],
+
+```
+
 To install, either run
 
 ```
